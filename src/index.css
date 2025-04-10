@@ -4,7 +4,7 @@
 
 .home-bg {
   background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url("img/bg.jpeg");
+    url("/img/bg.jpeg");
 }
 
 /* https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje */
